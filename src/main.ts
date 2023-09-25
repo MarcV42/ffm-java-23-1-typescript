@@ -5,7 +5,6 @@ console.log("Hallo")
 //let variable-Name : Type   = Wert
   let name          : string = "Florian"
 
-
 let money: number = 612.54
 let bool : boolean = false
 
